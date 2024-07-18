@@ -1,0 +1,64 @@
+body {
+    margin:0;
+    padding:0;
+    background-color:rgb(73, 73, 73);
+    color:white;
+}
+header {
+    margin:0;
+    padding:0;
+    color:white;
+}
+
+nav ul {
+    list-style-type: none;
+    background-image: url("nav-background-3.jpg");
+    padding:12px;
+}
+nav li {
+    display:inline;
+    padding:12px;
+}
+li a {
+    text-decoration: none;
+    color:black;
+    padding:12px;
+}
+li a:hover {
+    color:black;
+    text-decoration:underline;
+    background-color:rgb(23, 110, 106);
+}
+li a:visited {
+    color:black;
+}
+h1 {
+    text-align: center;
+    font-family:
+}
+footer {
+    color:white;
+    text-align:right;
+}
+footer p{
+    padding:0;
+    margin:0;
+}
+.fa {
+    float:right;
+    padding: 8px;
+    font-size: 18px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .carousel img {
+    margin: auto;
+}
